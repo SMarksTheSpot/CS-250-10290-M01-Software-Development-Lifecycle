@@ -1,1 +1,7 @@
-# CS-250-10290-M01-Software-Development-Lifecycle
+##	How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting user needs starts with listening, whether that is actively sitting down with the user, going through user feedback or whatever method you have of communicating with them. You need to understand not just what the users are saying, but what they need to solve the issues they are talking about. Creating user stories helps to frame what they are asking for and by adding acceptance criteria, you get distinct, actionable items to work on. Also, listening and communicating with user, you can form user profiles which will help write user stories based on what kind of user will be using the functionality that you are creating.
+##	How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+Every program I have worked on, I have worked as a team. I think the key to building successful programs is to work well as a team, communicate, write small iterations and continuously refine and retool. Although they can be somewhat time consuming, there is a lot of value in the Agile processes like sprint planning, standups and retros, and I plan to continue to use these tools with my team.
+##	What does it mean to be a good team member in software development?
+I feel the main aspect of being a good team member is to communicate effectively and kindly. Getting your ideas across, while being open to feedback and listening to others not only will make you a better programmer but better team member. And if everyone on your team communicates this way, your team will succeed.
+
